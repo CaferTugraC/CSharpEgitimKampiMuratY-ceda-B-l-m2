@@ -3,6 +3,7 @@
 Bu repoda, katıldığım C# eğitim kampı süresince geliştirdiğim EfTravel uygulaması yer almaktadır: "CSharpEgtim_301_OOP.EFProject", aynı zamanda eğitim süresince geliştirilen çok katmanlı mimari kullanılarak yapılmış bir proje de yer almaktadır. 
 
 ---
+![image](https://github.com/user-attachments/assets/34f07f37-15c7-46f6-b71a-c73065bc34bf)
 
 
 ## 📍 EfProject: Travel Sistemi İstatistik Ekranı
