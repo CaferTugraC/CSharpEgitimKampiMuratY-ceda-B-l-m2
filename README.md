@@ -1,10 +1,9 @@
 # 📚 C# Eğitim Kampı Projeleri
 
-Bu repoda, katıldığım C# eğitim kampı süresince geliştirdiğim EfTravel uygulaması yer almaktadır: "CSharpEgtim_301_OOP.EFProject", aynı zamanda eğitim süresince geliştirilen çok katmanlı mimari kullanılarak yapılmış bir proje de yer almaktadır. 
+Bu repoda, katıldığım C# eğitim kampı süresince geliştirdiğim EfTravel uygulaması yer almaktadır: "CSharpEgtim_301_OOP.EFProject". Aynı zamanda eğitim süresince geliştirilen, çok katmanlı mimari kullanılarak yapılmış bir proje de bulunmaktadır.
 
 ---
 ![image](https://github.com/user-attachments/assets/34f07f37-15c7-46f6-b71a-c73065bc34bf)
-
 
 ## 📍 EfProject: Travel Sistemi İstatistik Ekranı
 
@@ -25,4 +24,21 @@ Bu projede, Entity Framework kullanarak Database First yaklaşımıyla bir Trave
 
 Bu projeyi geliştirirken Entity Framework ile Database First yaklaşımı kullanarak daha önce hazırlanmış bir veritabanına bağlanmayı, LINQ sorguları yazmayı ve CRUD işlemlerini uygulamayı öğrendim. 
 
-Bu proje, C# ile program yazmaya adım atmamı sağladı ve ilerleyen projelerde kendimi daha da geliştirmeyi hedefliyorum.
+## 📍 Çok Katmanlı Mimari Projesi: Market Ürünleri Yönetim Aracı
+
+Bu projede, Entity Framework kullanarak çok katmanlı mimari ile bir marketteki ürünlerin kategorilerini, fiyatlarını, stok durumlarını içeren veritabanını Windows Forms arayüzü ile yönetmek amaçlandı.
+
+### Proje Özellikleri:
+
+- **Kategori Ekleme / Güncelleme / Silme**  
+  Kullanıcılar ürün kategorilerini ekleyebilir, var olan kategorileri güncelleyebilir veya silebilir.
+
+- **Ürün Ekleme / Güncelleme / Silme**  
+  Ürünler, kategori, fiyat, stok miktarı gibi bilgileri ile birlikte yönetilebilir.
+
+- **Veri Listeleme ve Filtreleme**  
+  Ürünler ve kategoriler Windows Forms üzerinden listelenebilir, kullanıcılar filtreleme yapabilir.
+
+---
+
+Bu iki proje, C# ile programlama dünyasına ilk adımlarımı atmamı sağladı. İlerleyen projelerde bilgi ve tecrübemi artırmayı hedefliyorum.
